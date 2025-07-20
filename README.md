@@ -2,7 +2,7 @@
 Página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase.
 
 <p align="center">
-    <img width="300" src="">
+    <img width="300" src="https://delirlo.github.io/wordinvert/assets/images/banner/logo.svg">
 </p>
 
 -------
